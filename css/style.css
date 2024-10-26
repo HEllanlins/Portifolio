@@ -319,7 +319,7 @@ section {
 }
 
 .eu6{
-    mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.014), rgb(0, 0, 0));
+    mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgb(0, 0, 0));
     mask-size: 100% 100%;
 }
 
@@ -335,7 +335,7 @@ span {
 }
 
 .about-img img {
-    width: 40vw;
+    width: 28vw;
 }
 
 .heading {
